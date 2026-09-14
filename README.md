@@ -60,4 +60,6 @@ Project Area	Tools
 
 
 Detailed Case Study:
-[Notion link goes here]
+https://app.notion.com/p/Nexora-Cloud-Ltd-B2B-3d6117402af580328a54e5466bcd9920?source=copy_link
+
+Disclaimer: The project is intended for learning purposes. 
